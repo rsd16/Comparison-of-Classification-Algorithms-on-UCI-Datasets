@@ -1,0 +1,50 @@
+Accuracy for dataset: "banknote_authentication" from "Random Forest" model is: 0.9867549668874173
+Accuracy for dataset: "banknote_authentication" from "XGBoost" model is: 0.9867549668874173
+Accuracy for dataset: "banknote_authentication" from "Decision Tree" model is: 0.9823399558498896
+Accuracy for dataset: "banknote_authentication" from "AdaBoost" model is: 1.0
+Accuracy for dataset: "banknote_authentication" from "SVM" model is: 0.9977924944812362
+Accuracy for dataset: "sonar" from "Random Forest" model is: 0.8405797101449275
+Accuracy for dataset: "sonar" from "XGBoost" model is: 0.8840579710144928
+Accuracy for dataset: "sonar" from "Decision Tree" model is: 0.7101449275362319
+Accuracy for dataset: "sonar" from "AdaBoost" model is: 0.8985507246376812
+Accuracy for dataset: "sonar" from "SVM" model is: 0.855072463768116
+Accuracy for dataset: "iris" from "Random Forest" model is: 0.98
+Accuracy for dataset: "iris" from "XGBoost" model is: 0.98
+Accuracy for dataset: "iris" from "Decision Tree" model is: 0.98
+Accuracy for dataset: "iris" from "AdaBoost" model is: 0.98
+Accuracy for dataset: "iris" from "SVM" model is: 0.96
+Accuracy for dataset: "Pima Indians Diabetes Dataset" from "Random Forest" model is: 0.7637795275590551
+Accuracy for dataset: "Pima Indians Diabetes Dataset" from "XGBoost" model is: 0.7322834645669292
+Accuracy for dataset: "Pima Indians Diabetes Dataset" from "Decision Tree" model is: 0.7244094488188977
+Accuracy for dataset: "Pima Indians Diabetes Dataset" from "AdaBoost" model is: 0.7519685039370079
+Accuracy for dataset: "Pima Indians Diabetes Dataset" from "SVM" model is: 0.7440944881889764
+Accuracy for dataset: "wine" from "Random Forest" model is: 0.9661016949152542
+Accuracy for dataset: "wine" from "XGBoost" model is: 0.9491525423728814
+Accuracy for dataset: "wine" from "Decision Tree" model is: 0.8983050847457628
+Accuracy for dataset: "wine" from "AdaBoost" model is: 0.9830508474576272
+Accuracy for dataset: "wine" from "SVM" model is: 0.711864406779661
+Accuracy for dataset: "zoo" from "Random Forest" model is: 0.967741935483871
+Accuracy for dataset: "zoo" from "XGBoost" model is: 0.967741935483871
+Accuracy for dataset: "zoo" from "Decision Tree" model is: 0.9354838709677419
+Accuracy for dataset: "zoo" from "AdaBoost" model is: 0.7741935483870968
+Accuracy for dataset: "zoo" from "SVM" model is: 0.967741935483871
+Accuracy for dataset: "lymphography" from "Random Forest" model is: 0.8936170212765957
+Accuracy for dataset: "lymphography" from "XGBoost" model is: 0.8936170212765957
+Accuracy for dataset: "lymphography" from "Decision Tree" model is: 0.8297872340425532
+Accuracy for dataset: "lymphography" from "AdaBoost" model is: 0.8723404255319149
+Accuracy for dataset: "lymphography" from "SVM" model is: 0.8936170212765957
+Accuracy for dataset: "ionosphere" from "Random Forest" model is: 0.9482758620689655
+Accuracy for dataset: "ionosphere" from "XGBoost" model is: 0.9310344827586207
+Accuracy for dataset: "ionosphere" from "Decision Tree" model is: 0.9137931034482759
+Accuracy for dataset: "ionosphere" from "AdaBoost" model is: 0.9396551724137931
+Accuracy for dataset: "ionosphere" from "SVM" model is: 0.9482758620689655
+Accuracy for dataset: "ecoli" from "Random Forest" model is: 0.8611111111111112
+Accuracy for dataset: "ecoli" from "XGBoost" model is: 0.8611111111111112
+Accuracy for dataset: "ecoli" from "Decision Tree" model is: 0.8425925925925926
+Accuracy for dataset: "ecoli" from "AdaBoost" model is: 0.6666666666666666
+Accuracy for dataset: "ecoli" from "SVM" model is: 0.8796296296296297
+Accuracy for dataset: "seeds" from "Random Forest" model is: 0.9714285714285714
+Accuracy for dataset: "seeds" from "XGBoost" model is: 0.9571428571428572
+Accuracy for dataset: "seeds" from "Decision Tree" model is: 0.9428571428571428
+Accuracy for dataset: "seeds" from "AdaBoost" model is: 0.7142857142857143
+Accuracy for dataset: "seeds" from "SVM" model is: 0.9571428571428572
